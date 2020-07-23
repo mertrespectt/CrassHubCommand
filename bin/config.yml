@@ -1,0 +1,8 @@
+hub: 'Hub' # "Buraya yazdığınız yere yönlendilirsiniz"
+alreadyInHub: You are already connected to this server!
+disabledServersError: You can't do /hub here
+
+disabled-servers: []
+
+# bunu ellemenize gerek yok
+config-version: 2
